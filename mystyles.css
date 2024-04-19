@@ -1,0 +1,51 @@
+.header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: rgb(146, 242, 234);
+    color:rgb(21, 21, 20);
+    height: 100px;
+    line-height: 100px;
+}
+.mainbody{
+    background-color: rgb(222, 245, 243);
+    padding: 10px;
+    border: 10px solid black;
+    margin: 20px;
+}
+.footer{
+    position: fixed;
+    background-color: rgb(146, 242, 234);
+    bottom: 0px;
+    right: 3px;
+    left: 3px;
+    height: 40px;
+    font-size: 25px;
+    line-height: 25px;
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+.common{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+.mylist{
+    text-align: center;
+}
+.mylistitems{
+    display: inline-block;
+    text-align: left;
+}
+.centertableau{
+    text-align: center;
+}
+.scroll{
+    text-align: center;
+    font-weight: Bold 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
